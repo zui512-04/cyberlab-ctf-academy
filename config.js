@@ -1,4 +1,5 @@
+
 window.CYBERLAB_CONFIG = {
-  url: "", // Supabase Project URL
-  anonKey: "" // Supabase publishable/anon key; NEVER service_role
+  url: "https://你的專案ID.supabase.co",
+  anonKey: "你的公開金鑰"
 };
